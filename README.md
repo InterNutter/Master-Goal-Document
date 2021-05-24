@@ -13,6 +13,11 @@ What am I doing here? Well, I am going to learn Javascript so I can make an app 
 * Put indexed Instants on some form of cloud storage
 * Allow me to input new Instants via the same app
   - which requires username and passwords/ memberships
+* Searchability
+  - by year
+  - by number
+  - by regular character
+  - by tag
 * NO ADVERTISING! EVER!
 * OPT IN FEES AND CHARGES
   - one payment once (your username is sent to me and it or a variant of it may turn up in a fresh Instant - there's a draw)
