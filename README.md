@@ -29,6 +29,14 @@ What am I doing here? Well, I am going to learn Javascript so I can make an app 
   - language translation (stretch goal)
     ~ take my chances with google translate
     ~ join the translation team (paid 10% of the gross, 5 team members max)
+* Favourites - readers can go straight to them to read again whenever they like
+* Achievements
+  - Read all the stories from one to wherever "Epic Journey"
+  - Twice "There and Back Again"
+  - Thrice "Glutton for Punishment"
+  - Mark 10 stories as your favourite "Small Collection"
+  - Mark 100 stories as your favourite "Anthologiser"
+  - Mark 1000 stories as your favourite "Scheherezade's Book-keeper"
  
  ## Sounds like a lot
  
